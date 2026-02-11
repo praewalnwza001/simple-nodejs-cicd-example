@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         VERCEL_PROJECT_NAME = 'learn-jenkins-app'
-        VERCEL_TOKEN = credentials('vercel-token') 
+        VERCEL_TOKEN = credentials('DevOps23-vercel-token') 
     }
 
     stages {
