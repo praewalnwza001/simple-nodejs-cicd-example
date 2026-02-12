@@ -1,0 +1,10 @@
+git clone 
+cd directory
+code .
+npm install
+npm run build
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+git add .
+git commit -m "update eiei"
+git push
+ 
